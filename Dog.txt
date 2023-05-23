@@ -1,6 +1,0 @@
-Dog
-is 
-good
-is
-good
-fds
