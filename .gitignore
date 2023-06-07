@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/TeamOrange/Kyree/BP_ThirdPersonGameMode_2.uasset
+Content/TeamOrange/Kyree/MyLevel.umap
